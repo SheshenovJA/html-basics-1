@@ -1,0 +1,15 @@
+  Quirks mode
+Its a special HTML rendering model in browsers. In this mode modern browsers purposely
+simulate old browsers-bags, like IE 4 and IE 5.
+
+  <cite> and <q> tags
+<q></q> inline tags - uses for quote inside text, dispays double quotation marks: "quote here"
+<cite></cite> - uses like footnote(fn) for some matherial source, author, etc. displays as italic text. Can contain URL.
+
+  <strong> and <b> tags
+On page tags <strong> and <b> locks bold. But <stong> is semantic-tag, hes functions is logical text highligthting(key things).
+<b></b> tag uses for page design. Text displays as bold.
+
+  <em> and <i> tags
+<em> is semantic-tag, like <strong>, but hes logical priority is less that strong. s
+<i></i> tag uses for page design. Text displays as itanic.
